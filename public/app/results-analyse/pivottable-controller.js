@@ -230,6 +230,7 @@ angular.module('OpenTMIControllers')
                 "day name":   dateFormat("cre.time", "%w", true),
                 "Week number": weeNumberDerivery,
                 "Duration_bin10": derivers.bin("exec.duration", 10),
+                "pass": function(record) { return record['exec.verdict']==='pass'?1:0; }
                 /*"Duration": function(record) {
                     duration = 0;
                     try {
