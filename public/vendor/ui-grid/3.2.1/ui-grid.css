@@ -1,6 +1,6 @@
 /*!
  * ui-grid - v3.2.1-5fe5a3e - 2016-08-25
- * Copyright (c) 2016 ; License: MIT 
+ * Copyright (c) 2016 ; License: MIT
  */
 #ui-grid-twbs #ui-grid-twbs .form-horizontal .form-group:before,
 #ui-grid-twbs #ui-grid-twbs .form-horizontal .form-group:after,
@@ -79,11 +79,11 @@
 }
 .ui-grid-top-panel-background {
   background: #f3f3f3;
-  background: -webkit-gradient(linear, left bottom, left top, color-stop(0, #eeeeee), color-stop(1, #ffffff));
-  background: -ms-linear-gradient(bottom, #eeeeee, #ffffff);
-  background: -moz-linear-gradient(center bottom, #eeeeee 0%, #ffffff 100%);
-  background: -o-linear-gradient(#ffffff, #eeeeee);
-  filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#ffffff', endColorstr='#eeeeee', GradientType=0);
+  background: -webkit-gradient(linear, left bottom, left top, color-stop(0, #eeeeee), color-stop(1, #eeeeee));
+  background: -ms-linear-gradient(bottom, #eeeeee, #eeeeee);
+  background: -moz-linear-gradient(center bottom, #eeeeee 0%, #eeeeee 100%);
+  background: -o-linear-gradient(#eeeeee, #eeeeee);
+  filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#eeeeee', endColorstr='#eeeeee', GradientType=0);
 }
 .ui-grid-header {
   border-bottom: 1px solid #d4d4d4;
@@ -94,11 +94,11 @@
   overflow: hidden;
   font-weight: bold;
   background: #f3f3f3;
-  background: -webkit-gradient(linear, left bottom, left top, color-stop(0, #eeeeee), color-stop(1, #ffffff));
-  background: -ms-linear-gradient(bottom, #eeeeee, #ffffff);
-  background: -moz-linear-gradient(center bottom, #eeeeee 0%, #ffffff 100%);
-  background: -o-linear-gradient(#ffffff, #eeeeee);
-  filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#ffffff', endColorstr='#eeeeee', GradientType=0);
+  background: -webkit-gradient(linear, left bottom, left top, color-stop(0, #eeeeee), color-stop(1, #eeeeee));
+  background: -ms-linear-gradient(bottom, #eeeeee, #eeeeee);
+  background: -moz-linear-gradient(center bottom, #eeeeee 0%, #eeeeee 100%);
+  background: -o-linear-gradient(#eeeeee, #eeeeee);
+  filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#eeeeee', endColorstr='#eeeeee', GradientType=0);
   -webkit-border-top-right-radius: -1px;
   -webkit-border-bottom-right-radius: 0;
   -webkit-border-bottom-left-radius: 0;
@@ -228,7 +228,7 @@
   transform: translateY(0);
 }
 .ui-grid-filter-container {
-  padding: 4px 10px;
+  padding: 1px 5px;
   position: relative;
 }
 .ui-grid-filter-container .ui-grid-filter-button {
@@ -370,11 +370,11 @@ select.ui-grid-filter-select:hover {
   right: 0;
   margin: 10%;
   background: #f3f3f3;
-  background: -webkit-gradient(linear, left bottom, left top, color-stop(0, #eeeeee), color-stop(1, #ffffff));
-  background: -ms-linear-gradient(bottom, #eeeeee, #ffffff);
-  background: -moz-linear-gradient(center bottom, #eeeeee 0%, #ffffff 100%);
-  background: -o-linear-gradient(#ffffff, #eeeeee);
-  filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#ffffff', endColorstr='#eeeeee', GradientType=0);
+  background: -webkit-gradient(linear, left bottom, left top, color-stop(0, #eeeeee), color-stop(1, #eeeeee));
+  background: -ms-linear-gradient(bottom, #eeeeee, #eeeeee);
+  background: -moz-linear-gradient(center bottom, #eeeeee 0%, #eeeeee 100%);
+  background: -o-linear-gradient(#eeeeee, #eeeeee);
+  filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#eeeeee', endColorstr='#eeeeee', GradientType=0);
   -webkit-border-top-right-radius: 0px;
   -webkit-border-bottom-right-radius: 0;
   -webkit-border-bottom-left-radius: 0;
@@ -440,11 +440,11 @@ select.ui-grid-filter-select:hover {
 }
 .ui-grid-footer-panel-background {
   background: #f3f3f3;
-  background: -webkit-gradient(linear, left bottom, left top, color-stop(0, #eeeeee), color-stop(1, #ffffff));
-  background: -ms-linear-gradient(bottom, #eeeeee, #ffffff);
-  background: -moz-linear-gradient(center bottom, #eeeeee 0%, #ffffff 100%);
-  background: -o-linear-gradient(#ffffff, #eeeeee);
-  filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#ffffff', endColorstr='#eeeeee', GradientType=0);
+  background: -webkit-gradient(linear, left bottom, left top, color-stop(0, #eeeeee), color-stop(1, #eeeeee));
+  background: -ms-linear-gradient(bottom, #eeeeee, #eeeeee);
+  background: -moz-linear-gradient(center bottom, #eeeeee 0%, #eeeeee 100%);
+  background: -o-linear-gradient(#eeeeee, #eeeeee);
+  filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#eeeeee', endColorstr='#eeeeee', GradientType=0);
 }
 .ui-grid-footer-panel {
   position: relative;
@@ -453,11 +453,11 @@ select.ui-grid-filter-select:hover {
   overflow: hidden;
   font-weight: bold;
   background: #f3f3f3;
-  background: -webkit-gradient(linear, left bottom, left top, color-stop(0, #eeeeee), color-stop(1, #ffffff));
-  background: -ms-linear-gradient(bottom, #eeeeee, #ffffff);
-  background: -moz-linear-gradient(center bottom, #eeeeee 0%, #ffffff 100%);
-  background: -o-linear-gradient(#ffffff, #eeeeee);
-  filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#ffffff', endColorstr='#eeeeee', GradientType=0);
+  background: -webkit-gradient(linear, left bottom, left top, color-stop(0, #eeeeee), color-stop(1, #eeeeee));
+  background: -ms-linear-gradient(bottom, #eeeeee, #eeeeee);
+  background: -moz-linear-gradient(center bottom, #eeeeee 0%, #eeeeee 100%);
+  background: -o-linear-gradient(#eeeeee, #eeeeee);
+  filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#eeeeee', endColorstr='#eeeeee', GradientType=0);
   -webkit-border-top-right-radius: -1px;
   -webkit-border-bottom-right-radius: 0;
   -webkit-border-bottom-left-radius: 0;
